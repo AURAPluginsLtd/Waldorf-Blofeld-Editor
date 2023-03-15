@@ -22,9 +22,9 @@ Minimum OS: Windows 7 | macOS 10.12 with Plug-in Format compatible host
 Supported CPU: Intel or Apple Silicon
 ```
 
-[Download DEMO](https://downloads.auraplugins.com/download/waldorf-blofeld-editor-pc-demo/) for Windows 7 and greater
+[Download DEMO](https://downloads.auraplugins.com/download/waldorf-blox-editor-librarian-pc-demo/) for Windows 7 and greater
 
-[Download DEMO](https://downloads.auraplugins.com/download/waldorf-blofeld-editor-mac-demo/) for macOS 10.12 and greater
+[Download DEMO](https://downloads.auraplugins.com/download/waldorf-blox-editor-librarian-mac-demo/) for macOS 10.12 and greater
 
 ## Community
 
