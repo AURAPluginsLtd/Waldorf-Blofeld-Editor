@@ -1,5 +1,7 @@
 # Waldorf Blofeld Editor & Librarian
 
+![Waldorf Blofeld Editor v3 (work in progress)](https://user-images.githubusercontent.com/46903303/225457542-f9049aa6-d035-4974-a07f-41089ed6c067.jpg)
+
 ```
 Note: All download links serve old version while version 3 is being developed.
 Version 3 update is free for anyone who purchases the license now while it is on sale!
