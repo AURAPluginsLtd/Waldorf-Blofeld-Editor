@@ -30,7 +30,7 @@ Supported CPU: Intel
 
 Join our [online community](https://github.com/AURAPluginsLtd/Waldorf-Blofeld-Editor/discussions) for making this product better.
 
-You can make Feature Requests and BUG Reports from [Issues](https://github.com/AURAPluginsLtd/Waldorf-Blofeld-Editor/issues) page, follow our development progress from [Projects](https://github.com/orgs/AURAPluginsLtd/projects/6/views/2) page and don't forget to support our work by clicking the Sponsor link at the top of the page, or:
+You can make Feature Requests and BUG Reports from [Issues](https://github.com/AURAPluginsLtd/Waldorf-Blofeld-Editor/issues) page, follow our development progress from [Projects](https://github.com/orgs/AURAPluginsLtd/projects/7) page and don't forget to support our work by clicking the Sponsor link at the top of the page, or:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F1BFYZN)
 
